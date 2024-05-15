@@ -174,3 +174,9 @@ footer {
 	padding-bottom: 60PX;
 	width: 100%;
 }
+
+@media (max-width: 320px) {
+nav ul li {
+	margin-right: 15px;
+}
+}
